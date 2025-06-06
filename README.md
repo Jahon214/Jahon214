@@ -34,7 +34,7 @@
 ```yaml
 name: Jakhongir Narzullayev
 located_in: Sirdaryo, Uzbekistan
-title: Software Developer
+title: Fullstack Developer
 education:
   - Jizzakh Polytechnic Institute, Agricultural Mechanization
   - Software Engineering Course, IT Park 
