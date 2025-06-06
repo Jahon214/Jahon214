@@ -2,8 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
-
 <div align="center">
  <a href="https://www.instagram.com/_jahon_03/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
@@ -20,7 +18,6 @@
 </div>
 
 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
@@ -30,8 +27,6 @@
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 
 <hr>
-<br>
-
 
 ## 👩‍💻 A Little Bit About Me and My Interests
 
@@ -60,13 +55,10 @@ hobbies:
   - Language learning
 ```
 <hr>
-<br>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahon214&label=Profile%20views&color=0e75b6&style=flat" alt="jahon214" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahon214" alt="jahon214" /></a> </p>
-
 
 <hr>
 
